@@ -26481,6 +26481,22 @@
         "instagram": "https://instagram.com/ilearnblock",
         "twitter": "https://twitter.com/ilearnblock"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HqxyA7nVgtcoXhTrEcaWxzH2xuNeNDsie8nA8Unp1pZ2",
+      "symbol": "ZULIA",
+      "name": "ZULIA",
+      "decimals": 9,
+      "logoURI": "https://zuliacoin.com/wp-content/uploads/2021/09/zuliacoin.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/zuliacoin",
+        "twitter": "https://twitter.com/zuliacoin",
+        "website": "https://zuliacoin.com"
+      }
     }
   ],
   "version": {
