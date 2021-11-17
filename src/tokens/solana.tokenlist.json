@@ -24937,6 +24937,40 @@
       "extensions": {
         "discord": "https://discord.gg/5Zx3Qdng4M"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8p1GqwyQMieGDJp2VcNY4j1bNEdWPnDUtVhaZrMhL6LF",
+      "symbol": "GMI",
+      "name": "Gonna Make It Utility Token",
+      "decimals": 9,
+      "logoURI": "https://gonnamakeit.app/branding/gmi-token.png",
+      "tags": [
+        "DeFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/rAnhpNqQmq",
+        "twitter": "https://twitter.com/gonnamakeitapp",
+        "website": "https://gonnamakeit.app/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CLhx8u9HXyMTew88dh2N9EyTqV2j6PwKSoTj6jivqaqH",
+      "symbol": "WAGMI",
+      "name": "Gonna Make It Governance Token",
+      "decimals": 9,
+      "logoURI": "https://gonnamakeit.app/branding/wagmi-token.png",
+      "tags": [
+        "DeFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/rAnhpNqQmq",
+        "twitter": "https://twitter.com/gonnamakeitapp",
+        "website": "https://gonnamakeit.app/"
+      }
     }
   ],
   "version": {
