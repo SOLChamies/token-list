@@ -5737,8 +5737,8 @@
       ],
       "extensions": {
         "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
-        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
         "assetContract": "https://etherscan.io/address/0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
         "coingeckoId": "basic-attention-token"
       }
     },
@@ -24672,6 +24672,23 @@
         "discord": "https://discord.gg/gXymhAfceY",
         "twitter": "https://twitter.com/ottercoinn",
         "website": "https://ottercoin.info/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MYRXNKuLELno5qnfgB1jcMAMV5aPDG2Qk9SiWCKsMNb",
+      "symbol": "MYR",
+      "name": "Malaysian Ringgit",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MYRXNKuLELno5qnfgB1jcMAMV5aPDG2Qk9SiWCKsMNb/logo.png",
+      "tags": [
+        "stablecoin",
+        "malaysian",
+        "ringgit"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/ringgitfinance",
+        "telegram": "https://t.me/ringgitfinance"
       }
     }
   ],
