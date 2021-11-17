@@ -25655,6 +25655,25 @@
         "twitter": "https://twitter.com/SolCatCoin",
         "website": "https://www.solcatcoin.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AcgJKkqKgoeDQY82pSTFzaJE4dy82kXnoAkg4aNhN2a9",
+      "symbol": "GMC",
+      "name": "GM Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AcgJKkqKgoeDQY82pSTFzaJE4dy82kXnoAkg4aNhN2a9/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "social-token",
+        "DeFi"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/JubHmwbg36",
+        "twitter": "https://twitter.com/GMCoiners",
+        "website": "https://twitter.com/GMCoiners"
+      }
     }
   ],
   "version": {
