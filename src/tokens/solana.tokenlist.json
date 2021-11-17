@@ -26226,6 +26226,22 @@
         "vault": "https://fraktion.art/vault/7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo",
         "vaultPubkey": "7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8D94XbVAjXRzRb8p1iz8dwPtuDKufeLX59WXEuGYLtPX",
+      "symbol": "FLDG",
+      "name": "FlokiDoge",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8D94XbVAjXRzRb8p1iz8dwPtuDKufeLX59WXEuGYLtPX/flokidogelogo.png",
+      "tags": [
+        "utility-token",
+        "meme-token",
+        "doge",
+        "Shib",
+        "elon",
+        "floki"
+      ]
     }
   ],
   "version": {
